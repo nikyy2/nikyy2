@@ -1,70 +1,62 @@
-new discord server: https://discord.gg/onlp
+new discord server: https://discord.gg/J7AjDFYA5m
 <!-- Hi skid <3 -->
-<h2 align="center">Telegram <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Group -  <a href="https://t.me/onlpx">t.me/onlpx</a></h2>
+<h2 align="center">Telegram Group -  <a href="https://t.me/nikymetaa">t.me/nikymetaa</a></h2>
 
-<!-- <p align="center">
-    <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
-</p> -->
 
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
-</p>
+```c++
+#include <iostream>
+#include <string>
+#include <vector>
+#include <tuple>
 
-```python
-class Attributes(Tekky):
-	def __init__(self) -> None:
-	    pass
-	
-	@staticmethod
-	def contact(self) -> tuple:
-	    discord  = "tekky#2229"
-	    telegram = "t.me/xtekky"
-	    proton   = "xtekky@protonmail.com"
-	    
-	    return discord, telegram, proton
-	
-	@staticmethod
-	def life(self) -> tuple:
-		langs         = ['French', 'German', 'Spanish', 'English']
-		nationalities = self.langs.remove('French', 'English').append('Korean')
-		age           = 17
-		
-		return langs, nationalities, age
-	
-	@staticmethod
-	def coding(self) -> tuple:
-		langs = {
-			'expert':   ['python'],
-			'intermediate': ['go', 'js'],
-			'learning': ['c', 'c++', 'c#', 'asm', 'java']
-		}
-		specialities  = ['web/app reverse engineering', 'fullstack', 'skidding (joke)']
-		environnement = ['vscode', 'pycharm']
-		
-		return langs, specialities, environnement
-	
-	@staticmethod
-	def projects(self) -> tuple:
-		discord   = ['HQ Gen', 'Raid Toolkit']
-		tiktok    = ['view bot', 'Algorithms']
-		instagram = ['Gen', 'Botting']
-		twitch    = ['Free Gen', 'Everything u can think of']
-		website   = ['tikstats.io', 'tikbotting.com']
-		
-		return discord, tiktok, instagram, twitch, website
+class Attributes {
+public:
+    Attributes() {}
 
-```
+    static std::tuple<std::string, std::string, std::string> contact() {
+        std::string discord  = "nikymetaa";
+        std::string telegram = "t.me/nikymetaa";
+        std::string youtube   = "https://www.youtube.com/@nikyisme";
+
+        return std::make_tuple(discord, telegram, youtube);
+    }
+
+    std::tuple<std::vector<std::string>, std::vector<std::string>, int> life() {
+        std::vector<std::string> langs = {"Vietnamese", "English"};
+        int age = 16;
+
+        return std::make_tuple(langs, age);
+    }
+
+    std::tuple<std::vector<std::string>, std::vector<std::string>, std::vector<std::string>> coding() {
+        std::vector<std::string> expert = {"python"};
+        std::vector<std::string> intermediate = {"html", "js"};
+        std::vector<std::string> learning = {"c", "c++", "c#", "GLSL"};
+        std::vector<std::string> specialities = {"web/app reverse engineering", "fast learner", "skidding"};
+        std::vector<std::string> environment = {"vscode", "pycharm"};
+
+        return std::make_tuple(expert, specialities, environment);
+    }
+
+    std::tuple<std::vector<std::string>, std::vector<std::string>, std::vector<std::string>, std::vector<std::string>, std::vector<std::string>> projects() {
+        std::vector<std::string> discord = {"GEN Bot", "Nuke Bot", "Fun Casino Bot"};
+        std::vector<std::string> tiktok = {"Viewbot"};
+        std::vector<std::string> roblox = {"Executor / Exploit / Injector"};
+        std::vector<std::string> website = {"nikymetaa.is-a.dev (portfolio)", "nikywelcome.is-a.dev (python IDE)"};
+
+        return std::make_tuple(discord, tiktok, roblox, website);
+    }
+};```
 <h2 align="center">Skills </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,pycharm,c,js,html" />
   </a>
 </p>
 
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api?username=xtekky&show_icons=true&theme=tokyonight>
+<p href="https://discord.gg/J7AjDFYA5m" align="center">
+    <img alt="" src=https://github-readme-stats.vercel.app/api?username=nikyy2&show_icons=true&theme=tokyonight>
 </p>
 
 
