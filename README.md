@@ -46,7 +46,8 @@ public:
 
         return std::make_tuple(discord, tiktok, roblox, website);
     }
-};```
+};
+```
 <h2 align="center">Skills </h2>
 
 <p align="center">
