@@ -1,6 +1,8 @@
-new discord server: https://discord.gg/J7AjDFYA5m
+discord server: https://discord.gg/J7AjDFYA5m
 
-new telegram server: https://t.me/nikymetaa
+telegram channel: https://t.me/nikymetaa
+
+youtube channel: https://www.youtube.com/@nikyisme
 
 ```c++
 #include <iostream>
