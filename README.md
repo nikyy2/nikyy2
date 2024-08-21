@@ -1,7 +1,5 @@
 new discord server: https://discord.gg/J7AjDFYA5m
-<!-- Hi skid <3 -->
-<h2 align="center">Telegram Group -  <a href="https://t.me/nikymetaa">t.me/nikymetaa</a></h2>
-
+new telegram server: https://t.me/nikymetaa
 
 ```c++
 #include <iostream>
